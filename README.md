@@ -4,6 +4,8 @@ The HR Analytics Dashboard provides a comprehensive view of key HR metrics and i
 
 https://github.com/amansahu2/HR_Analytics_dashboard/blob/5964e52b662ca0068bbdf8d89fb6e40614ae73bf/HR%20ANALYTICS%20DASHBOARD.png
 
+HR ANALYTICS DASHBOARD.png
+
 Dashboard Components
 **Key Metrics**
 Employee Count: Total number of employees in the organization.
